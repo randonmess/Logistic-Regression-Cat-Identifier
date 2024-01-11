@@ -1,5 +1,5 @@
 # Logistic-Regression-Cat-Identifier
-Built a logistic cat classifier in neural network architecture using NumPy. This model was trained on 209 examples.
+Built a logistic cat classifier in neural network architecture using NumPy. This model was trained on 209 examples for 100 epochs.
 
 ## Objectives
 - Build the general architecture of a learning algorithm, including:
